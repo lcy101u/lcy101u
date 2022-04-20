@@ -1,5 +1,5 @@
 # Hello, Homo sapiens 👋
-<img src="../lcy101u/img/creepyguy.gif" alt='lcy101u' width="100%">
+<img src="https://raw.githubusercontent.com/lcy101u/lcy101u/main/img/creepyguy.gif" alt='lcy101u' width="100%">
 
 ## About me
 
@@ -11,8 +11,8 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/chih-yang-lin-76b34b14b/"><img align="left" src="../lcy101u/img/linkedin.png" alt="LCY | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/0x_young"><img align="left" src="../lcy101u/img/twitter.png" alt="LCY | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/chih-yang-lin-76b34b14b/"><img align="left" src="https://raw.githubusercontent.com/lcy101u/lcy101u/main/img/linkedin.png" alt="LCY | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/0x_young"><img align="left" src="https://raw.githubusercontent.com/lcy101u/lcy101u/main/img/twitter.png" alt="LCY | Twitter" width="21px"/></a>
 
 </br>
 
