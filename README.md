@@ -11,8 +11,8 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/chih-yang-lin-76b34b14b/"><img align="left" src="https://raw.githubusercontent.com/lcy101u/lcy101u/main/img/linkedin.png" alt="LCY | LinkedIn" width="35px" target="_blank"/></a>
-<a href="https://twitter.com/0x_young"><img align="left" src="https://raw.githubusercontent.com/lcy101u/lcy101u/main/img/twitter.png" alt="LCY | Twitter" width="35px" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/chih-yang-lin-76b34b14b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/lcy101u/lcy101u/main/img/linkedin.png" alt="LCY | LinkedIn" width="35px"/></a>
+<a href="https://twitter.com/0x_young" target="_blank"><img align="left" src="https://raw.githubusercontent.com/lcy101u/lcy101u/main/img/twitter.png" alt="LCY | Twitter" width="35px"/></a>
 
 </br>
 
