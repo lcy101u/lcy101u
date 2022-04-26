@@ -26,6 +26,12 @@
   </a>
 </p>
 <hr>
+<!-- Dev Card-->
+<details>
+  <summary>:zap: Dev Card</summary>
+
+  <a href="https://app.daily.dev/yyyyyy4ever"><img src="https://api.daily.dev/devcards/a20334e7d43646238e0e8a954680e797.png?r=iu4" width="400" alt="Rain's Dev Card"/></a>
+</details>
 
 <!-- Github stats -->
 <details>
