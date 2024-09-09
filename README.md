@@ -6,7 +6,7 @@
 - 🔭 Check this out first [:musical_note:](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 - 👯 I’m looking to collaborate with other developers
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2024 Goals: Learn more about web3
 - ⚡ Fun fact: I love coffee :coffee:
 
 ### 🤝 Connect with me:
